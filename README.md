@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hola Muchachos 👋
 
-<!--
-**tramperhacker/tramperhacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Principal**: Emprendedor 
+- 📍 **Ubicación**: Tunja - Colombia
+- 💼 **Puesto/trabajo actual**: Dispuesto a encontrar nuevos retos  
+- 🌱 **Aprendizaje actual**: Analista de Datos
+- 💬 **Pregúntame sobre**: Guitarra, Inversiones y Deportes
+- ⚡ **Dato curioso**: Quiero cantar pero a veces me pierdo mientras toco guitarra.
 
-Here are some ideas to get you started:
+## Contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡No dudes en contactarme si quieres colaborar o tienes alguna pregunta! 😊
+
+- 📧 **Email**: [hanselalejandro007t@gmail.com]  
+- 🌐 **Portfolio**: [En construcción...](#)  
